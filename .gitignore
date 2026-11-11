@@ -1,0 +1,20 @@
+.junie
+.idea/
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+dist/
+build/
+*.egg-info/
+
+# experiment artifacts
+*.log
+latex/*.aux
+latex/*.bbl
+latex/*.blg
+latex/*.out
+latex/*.synctex.gz
+
+.DS_Store
